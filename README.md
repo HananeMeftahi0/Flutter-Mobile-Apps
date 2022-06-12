@@ -1,4 +1,4 @@
-# Marvel-Basic-Mobile-Apps
+# Basic-Mobile-Apps
 
 
 ![Screenshot_20220611_102307_com example ninja ninja_id](https://user-images.githubusercontent.com/40374773/173182363-83239790-422c-42bb-9de6-8ac65d0d88fd.jpg)
